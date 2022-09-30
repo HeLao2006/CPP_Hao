@@ -1,5 +1,5 @@
 Prefix Sum
-'''sh
+```sh
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
@@ -26,7 +26,7 @@ int main(){
 	}
 	return 0;
 }
-'''
+```
 Vấn đề:
 
 Đưa ra tổng của bất kì dãy con nào với O(1)
